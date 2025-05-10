@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyStopper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Walls
+  - Particles
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 0
+    uniqueID: 4167199935
+    locked: 0
+  - name: Background 1
+    uniqueID: 3860557693
+    locked: 0
+  - name: Buildings
+    uniqueID: 1188851705
+    locked: 0
+  - name: Decorations
+    uniqueID: 3493604121
+    locked: 0
+  - name: Trees
+    uniqueID: 742356353
+    locked: 0
+  - name: Water
+    uniqueID: 2529946345
+    locked: 0
+  - name: Ground
+    uniqueID: 381049441
+    locked: 0
+  - name: Player
+    uniqueID: 2264540975
+    locked: 0
+  - name: UI
+    uniqueID: 282952893
+    locked: 0
